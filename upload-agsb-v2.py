@@ -31,7 +31,7 @@ DEBUG_LOG = INSTALL_DIR / "python_debug.log"
 CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的域名
 
 # ====== 全局可配置参数（可直接在此处修改） ======
-USER_NAME = "Streanlit_app"         # 用户名
+USER_NAME = "raybow"         # 用户名
 UUID = "891ab47e-2c33-4fb1-acf2-db1577d07bb"                     # UUID，留空则自动生成
 PORT = 21805                   # Vmess端口，留空或0则自动生成
 DOMAIN = "st.raybow.dpdns.org"                   # 域名，留空则自动获取
